@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinoVirtual", "TreinoVirtual\TreinoVirtual.csproj", "{429411AA-6C28-4B03-B929-AC0CDEC03F83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429411AA-6C28-4B03-B929-AC0CDEC03F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429411AA-6C28-4B03-B929-AC0CDEC03F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429411AA-6C28-4B03-B929-AC0CDEC03F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429411AA-6C28-4B03-B929-AC0CDEC03F83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60F3A1C5-0C24-4713-87F5-873BEA6AFBCF}
+	EndGlobalSection
+EndGlobal
